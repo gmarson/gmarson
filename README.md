@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**gmarson/gmarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 
 
-Here are some ideas to get you started:
+I'm Gabriel Marson, graduated from 👨‍💻 UFU Universidade Federal de Uberlândia and an iOS Developer in Uberlândia, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working in a open source project with awesome people at **Zup**. If are into server driven ui applications, you'll definitely be interested in **[Beagle](https://github.com/ZupIT/beagle)**
+- ⚙️ I use daily: `.swift`, `.erb`, `.json`, `.yml`
+- 💜 Interests: tennis, flutter enthusiastic, coffee
+ - 🌱 I like to speak at public events and have been a speaker at some events. I organize Workshops, to help Student Community
+- 😄 Passionated about accessibility and committed to build applications that works for everyone
+
+#### Find me around the web 🌎:
+- 📫 Reach me:  gabrielmarson95@gmail.com
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/g-marson/">LinkedIn</a>
+- 🐦  Sharing tech tweets on <a href="https://twitter.com/GMarson95/">Twitter</a>
