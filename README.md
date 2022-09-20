@@ -3,8 +3,8 @@
 
 I'm Gabriel Marson, graduated from 👨‍💻 UFU Universidade Federal de Uberlândia and an iOS Developer in Uberlândia, Brazil.
 
-- 🏢 Working mainly with SwiftUI
-- ⚙️ I use daily: `.swift`, `.erb`, `.json`, `.yml`
+- 🏢 Working mainly with Server Driven UI applications, on client side.
+- ⚙️ I use daily: `.swift`, `.json`, `.yml`
 - 💜 Interests: tennis, data science, coffee
  - 🌱 I like to speak at public events and have been a speaker at some events. I organize Workshops, to help Student Community
 - 😄 Passionate about accessibility and committed to build applications that works for everyone
